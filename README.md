@@ -1,1 +1,1 @@
-# machine-learning-tuorial
+# machine-learning-algo
